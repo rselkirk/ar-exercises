@@ -26,4 +26,4 @@ st3 = Store.create(
   womens_apparel: false,
   )
 
-puts "Store count:" Store.count 
+puts Store.count 
